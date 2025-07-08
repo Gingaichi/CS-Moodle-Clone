@@ -26,9 +26,6 @@ This project was collaboratively built by:
 - **Nderitu Francis**
 - **Srividya Nanduri**
 
-## 📸 Preview
-
-> *(Add screenshots here if available to show how the homepage or layout looks)*
 
 ## 🚀 Getting Started
 
